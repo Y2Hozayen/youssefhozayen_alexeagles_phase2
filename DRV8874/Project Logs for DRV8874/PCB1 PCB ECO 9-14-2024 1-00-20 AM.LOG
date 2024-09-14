@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=Net1_3 New Net Name=PGND
+Change Net Name : Old Net Name=Net1_4 New Net Name=VCC_LOGIC
+Change Net Name : Old Net Name=NetDRV1_11 New Net Name=VCC_MOTOR
+Change Net Name : Old Net Name=NetDRV1_15 New Net Name=GND
